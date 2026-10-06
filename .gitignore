@@ -1,0 +1,28 @@
+# Derleme ve düzenleyici dosyaları
+.gradle/
+.idea/
+**/build/
+*.iml
+local.properties
+.DS_Store
+Thumbs.db
+
+# İmza anahtarları ve kimlik bilgileri
+*.jks
+*.keystore
+keystores/
+keystore.properties
+signing.properties
+.env
+.env.*
+
+# Dağıtım dosyaları
+*.apk
+*.aab
+*.caproj
+
+# Kişisel yedekler ve raporlar
+backups/
+Imza-Yedegi/
+*.xlsx
+*.pdf
