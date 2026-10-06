@@ -11,7 +11,7 @@ Bildirimde aşağıdaki bilgileri paylaşın:
 - Beklenen sonuç ve gerçekleşen davranış.
 - Gerekliyse kişisel bilgileri gizlenmiş ekran görüntüsü.
 
-Çalışma kayıtlarını, ödeme bilgilerini, JSON yedeklerini, şifreleri veya imza anahtarlarını herkese açık bildirimlere eklemeyin. Güvenlik sorunu bildirimlerinde gizli bilgileri veya istismar ayrıntılarını yayımlamadan önce özel iletişim kanalı talep edin.
+Çalışma kayıtlarını, ödeme bilgilerini, JSON yedeklerini veya şifreleri herkese açık bildirimlere eklemeyin. Güvenlik sorunu bildirimlerinde gizli bilgileri veya istismar ayrıntılarını yayımlamadan önce özel iletişim kanalı talep edin.
 
 ## Özellik Önerileri
 
