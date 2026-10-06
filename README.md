@@ -30,7 +30,7 @@ APK yayımlandığında [Releases](https://github.com/corexlyth/puantajim-androi
 3. Uygulamayı kur ve Ayarlar'dan yevmiye tutarını belirle. Şirket ve şantiye isteğe bağlıdır.
 4. Daha önce aldığın veri yedeğin varsa **Verileri İçe Aktar** ile yükle.
 
-Güncellemeden önce **Verileri Dışa Aktar** ile yedek al. Aynı paket ve aynı imzayla yayımlanan güncellemeler mevcut uygulamanın üzerine kurulabilir. Eski `com.corexlyth.puantaj.nativeapp` paketinden bu sürüme geçişte ayrı uygulama kurulur; JSON yedeğiyle veri aktarılır.
+Güncellemeden önce **Verileri Dışa Aktar** ile yedek al. Aynı paket ve aynı imzayla yayımlanan güncellemeler mevcut uygulamanın üzerine kurulabilir. JSON yedeğiyle veri aktarılır.
 
 ## Yedekleme ve Raporlar
 
